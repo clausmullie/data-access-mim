@@ -1,7 +1,7 @@
----
+<!--
 # SPDX-License-Identifier: CC0-1.0
 # SPDX-FileCopyrightText: Authors
----
+-->
 
 # MIM0: Data Access (mvp 0.3)
 
