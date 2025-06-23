@@ -22,7 +22,7 @@ The Minimum Interoperability Mechanisms community adheres to the following princ
 We appreciate contributions in the form of feedback, issues and pull requests.
 We intend to respond to each contribution if and when possible, but may not always have the capacity to do so.
 
-**The governance of the Minimum Interoperability Mechanisms is not open.**
+The governance of the Minimum Interoperability Mechanisms is **not** open.
 
 This means contributors will not always receive feedback on if & why their contribution was considered, accepted, or rejected.
 
@@ -30,11 +30,11 @@ This means contributors will not always receive feedback on if & why their contr
 
 The development version of the Minimum Interoperability Mechanisms is maintained by a working group.
 
-Participation in the working group is only open to:
+Participation in the working group is **exclusively** open to:
 * OASC members 
 * OASC strategic partners
-* Living-in.EU Technical Working Group members
-* External experts that are invited for ad hoc consultation
+* Living-in.EU Technical working group members
+* External experts that are invited by the working group for ad hoc consultation
 
 The working group member list is not public.
 
@@ -71,9 +71,9 @@ The champion and facilitator are responsible for:
 
 The working group meets regularly.
 Their agenda includes review of the roadmap and issues that are at an impasse.
-The intention of the meeting is not to review or approve all open pull requests.
-(Reviewing and approving pull requests is done through the process described in [CONTRIBUTING.md](CONTRIBUTING.md).)
+The intention of the meeting is not to create, review or approve open pull requests.
 
+```
 ### Decision making process
 
 The decision making process is consent as a default, and voting for certain matters.
@@ -86,6 +86,7 @@ If there is uncertainty about a decision, a steering team member can inform the 
 If no team member objects within 96 hours, the decision is considered supported.
 
 If objections are made, and no solutions can be found through discussion, the issue can be raised at the next working group meeting.
+```
 
 ## Council of Cities: Release version  
 
